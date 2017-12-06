@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+### 360
 
-You can use the [editor on GitHub](https://github.com/juanwilliams/shiny-fiesta/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+ <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/0on39" ></script>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
